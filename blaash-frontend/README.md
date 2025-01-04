@@ -7,7 +7,7 @@ This is the frontend part of the Blaash Project, a platform that allows users to
 
 1. Clone the repository:
    ```
-   git clone <repo-url>
+   git clone https://github.com/abhijha910/blaash-project.git
    ```
 
 2. Navigate to the frontend directory:
